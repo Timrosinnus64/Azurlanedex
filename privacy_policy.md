@@ -11,7 +11,7 @@ Additionally following data is collected inside your server:
 * message content, also used for the spawn mechanism
 
 ## How is it stored?
-All data is stored on a PostgreSQL server, running on a Virtual Private Machine hosted by Oracle Corportation.
+All data is stored on a main PC where the bot is hosted from Docker Desktop
 
 The data is protected from unauthorized access, disclosure, alteration and destruction.
 
